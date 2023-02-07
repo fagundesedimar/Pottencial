@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "urY4n6l/ajUXwzUl4yMPDWXUtKw8vR+JjIZAZE1A20N7yjjFxwKYa6naaR4w+90iot/U4h1vIWS8YQCVnS38gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Edimar\\source\\repos\\Pottencial_Teste\\Pottencial_Teste\\Pottencial_Teste.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Edimar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Edimar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Edimar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Edimar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Edimar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
