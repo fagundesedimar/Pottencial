@@ -13,7 +13,7 @@ namespace Pottencial.Entidades
         public long VendedorId { get; set; }
         public DateTime Data { get; set; }
         public List<long> Itens { get; set; }
-        public IEstadoVenda EstadoAtual { get; set; }
+        public IEstadoVenda EstadoAtual { get; set; } 
 
         public Venda(long vendedorId, List<long> itens)
         {
